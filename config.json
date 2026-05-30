@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configpync",
+        "uuid": 1276896,
+        "checksum": "129jn"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
